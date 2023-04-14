@@ -1,8 +1,3 @@
-Thank you for using our template!
+This is a website I built for fun.
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
-
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
-
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+I decided on a barbershop because I like taking care of myself and looking good.
